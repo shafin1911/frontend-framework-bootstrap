@@ -1,0 +1,24 @@
+{
+  "name": "frontend-framework",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shafin1911/frontend-framework.git"
+  },
+  "author": "Shafin AL Karim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shafin1911/frontend-framework/issues"
+  },
+  "homepage": "https://github.com/shafin1911/frontend-framework#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
