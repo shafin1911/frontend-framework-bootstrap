@@ -76,20 +76,7 @@ body{
     z-index: 1;
 }
 
-#reserveTableModal {
-    .modal-header {
-        background: $background-dark;
-        color: $background-floral-white;
-        .close {
-            color: $background-floral-white;
-        }
-    }
-    .modal-body {
-        background: $background-pale;
-    }
-}
-
-#loginModal {
+.modal {
     .modal-header {
         background: $background-dark;
         color: $background-floral-white;
